@@ -1,0 +1,22 @@
+ul li a {
+  color: black;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+ul li a:hover
+{
+  color: #005cbf;
+
+}
+
+
+
+#myImg
+{
+    height: 100%;
+    width: 100%;
+}
+#intro{
+    padding-top: 15%;
+}
